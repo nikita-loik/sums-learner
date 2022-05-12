@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sums-learner"
-version = "0.1.0"
+version = "0.4"
 description = "LSTM RNN to learn the sums"
 authors = ["Nikita Loik <nikita.loik@gmail.com>"]
 license = "MIT"

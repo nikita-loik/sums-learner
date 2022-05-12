@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="sums-learner-nikita-loik",
-    version="0.0.1",
+    name="sums-learner",
+    version="0.4",
     author="Nikita Loik",
     author_email="nikita.loik@gmail.com",
     description="RNN learning how to remember the relevan numbers & how to add them up",
